@@ -1,0 +1,2 @@
+Assignment_2/GTFS/fare_attributes.txt filter=lfs diff=lfs merge=lfs -text
+Assignment_2/GTFS/stop_times.txt filter=lfs diff=lfs merge=lfs -text
